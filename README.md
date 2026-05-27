@@ -44,10 +44,7 @@ Meu foco é aplicar modelagem estatística, extração via SQL e programação e
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SQL-transparent?style=flat&logo=databricks&logoColor=333333&iconOnly=true" width="50" height="50" alt="SQL" style="display:none;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" alt="SQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftvisualstudio/microsoftvisualstudio-original.svg" width="50" height="50" alt="Excel" style="display:none;"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/matlab.svg" style="display:none;"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="50" height="50" alt="Excel" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
 </p>
