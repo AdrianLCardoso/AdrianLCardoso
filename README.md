@@ -1,8 +1,8 @@
 # 👋 Olá, sou o Adrian Cardoso!
 
-👨‍💻 **Cientista & Analista de Dados | Business Intelligence | Controladoria | FP&A**
-📈 Apaixonado por transformar dados brutos em insights estratégicos e automações eficientes.
-📍 Petrópolis - RJ
+* 👨‍💻 **Cientista & Analista de Dados | Business Intelligence | Controladoria | FP&A**
+* 📈 Apaixonado por transformar dados brutos em insights estratégicos e automações eficientes.
+* 📍 Petrópolis - RJ
 
 ---
 
@@ -18,7 +18,7 @@ Minha trajetória envolve o uso constante de lógica de programação, tratament
 
 * 🎓 **Graduação em Ciência de Dados** — UniFavip Wyden
 * 🐍 **Python para Análise de Dados & Machine Learning** — Data Science Academy (DSA)
-*  ʀ **Linguagem R para Estatística e Data Science** — Udemy 
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="16" height="16" valign="middle" /> **Linguagem R para Estatística e Data Science** – Udemy
 
 ---
 
