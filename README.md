@@ -50,7 +50,8 @@ Meu foco é aplicar modelagem estatística, extração via SQL e programação e
 ---
 
 ## 📊 Estatísticas
+
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdrianLCardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLCardoso&layout=compact&langs_count=7&theme=dark" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianLCardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrianLCardoso&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
