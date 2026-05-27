@@ -16,9 +16,9 @@ Minha trajetória envolve o uso constante de lógica de programação, tratament
 
 ## 🎓 Formação
 
-* 🎓 **Graduação em Ciência de Dados** — UniFavip Wyden
-* 🐍 **Python para Análise de Dados & Machine Learning** — Data Science Academy (DSA)
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="16" height="16" valign="middle" /> **Linguagem R para Estatística e Data Science** – Udemy
+* 🎓 **Graduação em Ciência de Dados** - UniFavip Wyden | HarvardX
+* 🐍 **Python para Análise de Dados & Machine Learning** - Data Science Academy (DSA) | USP
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="16" height="16" valign="middle" /> **Linguagem R para Estatística e Data Science** - HarvardX
 
 ---
 
