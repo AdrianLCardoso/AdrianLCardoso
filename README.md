@@ -41,11 +41,11 @@ Meu foco é aplicar modelagem estatística, extração via SQL e programação e
 
 ## 🛠️ Linguagens e Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -53,5 +53,5 @@ Meu foco é aplicar modelagem estatística, extração via SQL e programação e
 
 <p align="left">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianLCardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrianLCardoso&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrianLCardoso&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
